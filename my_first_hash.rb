@@ -33,7 +33,7 @@ def adding
                   "muskets" => 2,
                   "gun powder" => 4
                  }
-  shipping_manifest[muskets] = "muskets" => 2
+  # shipping_manifest[muskets] = "muskets" => 2
   # add 2 muskets to the shipping_manifest hash below
 
 
